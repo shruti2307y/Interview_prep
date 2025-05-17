@@ -11,6 +11,16 @@ Use the Builder pattern when you want your code to be able to create different r
 
 The base builder interface defines all possible construction steps, and concrete builders implement these steps to construct particular representations of the product. Meanwhile, the director class guides the order of construction.
 
+### 🔧 When to Use the Builder Pattern
+Consider employing the Builder Pattern when:
+
+- An object has many parameters, especially when some are optional.
+
+- You want to avoid a constructor with numerous parameters, which can be confusing and error-prone.
+
+- You need to create different representations of an object.
+
+- You aim to build objects in a step-by-step manner, improving code clarity.
 
 ### How to implement
 
