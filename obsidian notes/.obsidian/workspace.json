@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "cea33d03cce42e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "22df3e471d6d4e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca28869f4c95e5bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Intro.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "My Intro"
+            }
+          },
+          {
+            "id": "0d49a07d8cb08090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SoftwareDev/LLD/Design Patterns/Singleton Pattern.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Singleton Pattern"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1db2b34ba0e94e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ee6a410604f14ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c214fcd811692b0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4777ad565842f2a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea9826c7e0924c65",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "right": {
+    "id": "9f3dd039ee640781",
+    "type": "split",
+    "children": [
+      {
+        "id": "e035d3f7c58f6be7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9480e5ce9878d66e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7387eb3f1c69d125",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a58325667b3317c7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df3ad271c1d6f3ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d49a07d8cb08090",
+  "lastOpenFiles": [
+    "SoftwareDev/LLD/Design Patterns/Creational Design Patters.md",
+    "SoftwareDev/LLD/Design Patterns/Low Level Design.md",
+    "SoftwareDev/LLD/Design Patterns/SOLID Principles.md",
+    "My Intro.md",
+    "SoftwareDev/LLD/Design Book My Show.md",
+    "Article Idea Dump.md",
+    "Linkedin Messages.md",
+    "Chat GPT prompt.md",
+    "SoftwareDev/Java Notes/Java Testing.md",
+    "Behavioural Interview prep.md",
+    "SoftwareDev/c++ notes/C++ Notes.md",
+    "SoftwareDev/Java Notes/Java Rest.md",
+    "SoftwareDev/Java Notes/Java MultiThreading Notes.md",
+    "SoftwareDev/LLD/Design Splitwise.md",
+    "SoftwareDev/LLD/Design Patterns/Abstract Factory Pattern.md",
+    "SoftwareDev/LLD/Design Patterns/Adapter Pattern.md",
+    "SoftwareDev/LLD/Design Patterns/Bridge Pattern.md",
+    "SoftwareDev/LLD/Design Patterns",
+    "SoftwareDev/SystemDesign/Design Ticketmaster.md",
+    "SoftwareDev/SystemDesign/Design an API Rate Limiter.md",
+    "SoftwareDev/SystemDesign/System Design Index.md",
+    "SoftwareDev/SystemDesign/Design Leetcode.md",
+    "SoftwareDev/SystemDesign/design leetcode.png",
+    "SoftwareDev/SystemDesign/Sample System Design Question.md",
+    "SoftwareDev/LLD/Design Patterns/Behavioural Design Patterns.md",
+    "SoftwareDev/LLD/Design Patterns/Chain of Responsibility Design Pattern.md",
+    "SoftwareDev/SystemDesign/web_crawler.png",
+    "SoftwareDev/SystemDesign/System Design Interview Structure.md",
+    "SoftwareDev/SystemDesign/In-Memory Databases.md",
+    "SoftwareDev/SystemDesign/dropbox_design.svg",
+    "SoftwareDev/SystemDesign/design_uber.png",
+    "SoftwareDev/SystemDesign/Design_video_streaming.png",
+    "SoftwareDev/SystemDesign/design_twitter_feed.png",
+    "SoftwareDev/c++ notes",
+    "SoftwareDev/Frontend Notes",
+    "SoftwareDev/Java Notes",
+    "SoftwareDev/SystemDesign/Untitled",
+    "SoftwareDev/SystemDesign/design_facebook.png",
+    "Pasted image 20240817171749.png",
+    "Pasted image 20240814232426.png",
+    "Pasted image 20240810230312.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "SoftwareDev/LLD",
+    "SoftwareDev/DSA/Arrays",
+    "SoftwareDev/DSA",
+    "SoftwareDev/Articles",
+    "SoftwareDev/SystemDesign/DDIA"
+  ]
+}
